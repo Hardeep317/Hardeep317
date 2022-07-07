@@ -1,4 +1,5 @@
-<h1> 👋 Hi, I’m @Hardeep317 </h1>
+<h1> 👋 Hi 😃I'm Hardeep  </h1>
+<h3> Aspiring Full Stack Web Developer </h3>
 - 👀 I’m interested in <i> Problem Solving.</i> <br>
 - 🌱 I’m currently learning Full Stack Web Development. <br>
 - 💞️ I’m looking to collaborate on new and chalanging projects. <br>
