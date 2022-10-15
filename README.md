@@ -48,9 +48,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hardeep41016/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="mayukhsen85082@gmail.com" href="mailto:mayukhsen85082@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/918116089383" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://mayukh-sen.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
+  <a title="mayukhsen85082@gmail.com" href="mailto:hardeepsiwach210@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/9050741016" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+<!--   <a href="https://mayukh-sen.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a> -->
     <!-- <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a> -->
 </p>
 
@@ -60,15 +60,15 @@
 <br/>
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=senCoder12&show_icons=true&theme=dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senCoder12&layout=compact&theme=dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hardeep317&show_icons=true&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardeep317&layout=compact&theme=dark" />
 </div>
  <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=senCoder12&theme=react-dark" alt="activitygraph&theme=dark" /> 
+<img src="https://activity-graph.herokuapp.com/graph?username=Hardeep317&theme=react-dark" alt="activitygraph&theme=dark" /> 
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=senCoder12&theme=dark" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=senCoder12&theme=dark" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senCoder12&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardeep317&theme=dark" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=Hardeep317&theme=dark" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hardeep317&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -76,5 +76,5 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/senCoder12/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hardeep317/count.svg" />
 </h3>
