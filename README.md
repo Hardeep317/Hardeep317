@@ -7,8 +7,6 @@
 
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://mayukh-sen.netlify.app/)**
-
 - 🔭 I’m currently working on `Something Intresting`.
 
 - 🌱 I’m currently learning `MERN Stack`
@@ -19,7 +17,7 @@
 
 - 💓 I love designing websites and coding.
 
-- 📫 How to reach me **mayukhsen85082@gmail.com**
+- 📫 How to reach me **hardeepsiwch210@gmail.com**
 
 <br>
 
@@ -49,7 +47,7 @@
 <h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayukh-sen12/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/hardeep41016/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="mayukhsen85082@gmail.com" href="mailto:mayukhsen85082@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/918116089383" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
   <a href="https://mayukh-sen.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>
