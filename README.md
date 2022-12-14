@@ -6,6 +6,7 @@
    ## 👨🏻‍💻 About Me:
 
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="280px" align="right" />
+- Know about me <a href="https://hardeep-portfolio.netlify.app/"> My Website </a>
 
 - 🔭 I’m currently working on `Something Intresting`.
 
