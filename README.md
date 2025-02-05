@@ -8,9 +8,9 @@
 <img  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height="280px" align="right" />
 - My Website <a href="https://portfolio-hardeep-siwach.netlify.app/"> My Website </a>
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working in `Eli Lilly and Company`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I have good knowledge of MERN stack
 
 - 👯 I’m looking to collaborate for `Projects`
 
